@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f9f9f9;
+}
+header {
+    display: none; /* Hide the header */
+}
+footer {
+    display: none; /* Hide the footer */
+}
+section {
+    margin: 0 auto;
+    max-width: 800px; /* Adjust as needed for your content */
+    padding: 40px;
+    text-align: center;
+}
